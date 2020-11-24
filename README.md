@@ -31,7 +31,7 @@
 
 - pkg install python clang make openssl -y && pkg install git && clear 
 
-- pkg install python -y && pkg install python2 -y && pkg install python3 -y && clear  
+- pkg install python -y && pkg install python2 -y && clear  
 
 - cd && git clone https://github.com/AnonymousJm/b0mb3r && cd b0mb3r && clear 
 
