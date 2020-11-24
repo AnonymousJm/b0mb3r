@@ -39,7 +39,7 @@
 
 - pip3 install b0mb3r.zip 
 
-- cd #home && rm -rf b0mb3r && clear && ls 
+- cd && rm -rf b0mb3r && clear && ls 
 
 - b0mb3r --port 8080
 
