@@ -48,7 +48,19 @@
 
 - bomber
 - b3mb3r 
- 
+
+‎
+
+> We are Anonymous.
+
+> We are Legion.
+
+> We do not Forgive.
+
+> We do not Forget.
+
+> Expect Us🎭
+
 
 
 
