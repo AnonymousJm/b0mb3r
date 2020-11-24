@@ -19,9 +19,7 @@ Wait for 30 seconds then restart your terminal after entering command b0mb3r --p
 then just launch your terminal type command
 
 - bomber
-
 or
-
 - b3mb3r 
  
 
