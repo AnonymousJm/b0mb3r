@@ -13,13 +13,15 @@
 
 - cd && rm -rf b0mb3r && clear && ls 
 
-- b0mb3r --port 8080 
------------------------------------------------------------------------------------------
+- b0mb3r --port 8080
+
 Wait for 30 seconds then restart your terminal after entering command b0mb3r --port 8080
 then just launch your terminal type command
 
 - bomber
+
 or
+
 - b3mb3r 
  
 
