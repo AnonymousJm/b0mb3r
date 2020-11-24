@@ -29,8 +29,6 @@
 
 - pkg update -y && pkg upgrade -y && clear
 
-- pkg install pip python3 -y && pkg install pip python -y && clear 
-
 - pkg install python clang make openssl -y && pkg install git && clear 
 
 - pkg install python -y && pkg install python2 -y && pkg install python3 -y && clear  
