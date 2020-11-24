@@ -2,6 +2,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Linux💣  
 
+- sudo su
+
 - sudo apt-get update -y && sudo apt-get upgrade -y && clear
 
 - sudo apt-get install pip python3 -y && sudo apt-get install pip python -y && clear 
